@@ -59,10 +59,10 @@ A production-grade Discord clone — not a tutorial project, not a UI mockup. Re
 │          ▼                                                          │
 │  Creates or joins a server                                          │
 │          │                                                          │
-│          ├──▶  Creates channels inside the server                   │
-│          ├──▶  Invites members via invite link                      │
-│          ├──▶  Sends messages in real-time                          │
-│          └──▶  Messages persist in database via Prisma              │
+│          ├──  Creates channels inside the server                   │
+│          ├──  Invites members via invite link                      │
+│          ├──  Sends messages in real-time                          │
+│          └──  Messages persist in database via Prisma              │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
