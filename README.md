@@ -15,8 +15,8 @@
 
 <br/>
 
-<a href="https://discord-clone.koyeb.app">
-<img src="https://img.shields.io/badge/LIVE%20DEMO%20%E2%86%92%20discord--clone.koyeb.app-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://github.com/aly-abbas11/Discord-Clone-Next">
+<img src="https://img.shields.io/badge/DEMO%20OFFLINE%20%E2%80%94%20REDEPLOYING-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -70,9 +70,9 @@ A production-grade Discord clone — not a tutorial project, not a UI mockup. Re
 
 ## Live Demo
 
-**Production URL:** [discord-clone.koyeb.app](https://discord-clone.koyeb.app)
+**Status:** Deployment temporarily offline — redeploying (was previously live at `discord-clone.koyeb.app`).
 
-Sign in with Google, create a server, add channels, and start messaging. No setup required.
+When live: sign in with Google, create a server, add channels, and start messaging. No setup required.
 
 ---
 
